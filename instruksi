@@ -1,0 +1,8 @@
+
+    pkg install git python2
+    pip2 install --upgrade pip
+    git clone https://github.com/Putakers/VIP-PREMIUM
+    cd VIP-PREMIUM
+    pip2 install -r requirements.txt
+    python2 VIP-PREMIUM.py
+
